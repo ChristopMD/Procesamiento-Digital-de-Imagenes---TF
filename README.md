@@ -10,4 +10,6 @@ https://colab.research.google.com/drive/1cVrMDGW65sjN1sYH5mhSwegUWSV8wIfc?usp=sh
 
 Link de videos:
 
+https://youtu.be/YNR0vyGKpTE
+
 https://youtu.be/Ej9wrRqqs_Q
