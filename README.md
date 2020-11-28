@@ -7,3 +7,7 @@ Christopher Mendoza Dávila      u201520561
 Link al colab:
 
 https://colab.research.google.com/drive/1cVrMDGW65sjN1sYH5mhSwegUWSV8wIfc?usp=sharing
+
+Link de videos:
+
+https://youtu.be/Ej9wrRqqs_Q
